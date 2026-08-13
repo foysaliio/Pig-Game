@@ -46,6 +46,7 @@ Players can also hold their current score to add it to their total score and pas
 
 Pig Game/
 │
+├── assets/
 ├── index.html
 ├── style.css
 ├── script.js
