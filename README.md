@@ -10,6 +10,14 @@ Rolling the dice adds the current dice value to the player's current score. Howe
 
 Players can also hold their current score to add it to their total score and pass the turn.
 
+## Live Demo
+
+[View Live Demo](https://foysaliio.github.io/Pig-Game/)
+
+## Screenshot
+
+![Pig Game](./assets/foysaliio.github.io_Pig-Game_.png)
+
 ## Features
 
 • Two player gameplay
